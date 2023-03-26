@@ -1,0 +1,8 @@
+C:\Users\48601\source\repos\pracadomowaliczbypierwsza\pracadomowaliczbypierwsza\bin\Debug\pracadomowaliczbypierwsza.exe.config
+C:\Users\48601\source\repos\pracadomowaliczbypierwsza\pracadomowaliczbypierwsza\bin\Debug\pracadomowaliczbypierwsza.exe
+C:\Users\48601\source\repos\pracadomowaliczbypierwsza\pracadomowaliczbypierwsza\bin\Debug\pracadomowaliczbypierwsza.pdb
+C:\Users\48601\source\repos\pracadomowaliczbypierwsza\pracadomowaliczbypierwsza\obj\Debug\pracadomowaliczbypierwsza.csproj.AssemblyReference.cache
+C:\Users\48601\source\repos\pracadomowaliczbypierwsza\pracadomowaliczbypierwsza\obj\Debug\pracadomowaliczbypierwsza.csproj.SuggestedBindingRedirects.cache
+C:\Users\48601\source\repos\pracadomowaliczbypierwsza\pracadomowaliczbypierwsza\obj\Debug\pracadomowaliczbypierwsza.csproj.CoreCompileInputs.cache
+C:\Users\48601\source\repos\pracadomowaliczbypierwsza\pracadomowaliczbypierwsza\obj\Debug\pracadomowaliczbypierwsza.exe
+C:\Users\48601\source\repos\pracadomowaliczbypierwsza\pracadomowaliczbypierwsza\obj\Debug\pracadomowaliczbypierwsza.pdb
